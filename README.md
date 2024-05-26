@@ -1,5 +1,5 @@
 # 💫 About Me:
-🐝 Welcome to my profile! I'm Sahil Budhwani, a versatile professional:<br><br>🌐 Full Stack Web Developer<br>🎨 Mobile App Developer<br>📚 Data Scientist Scholar<br>💼 Freelancer<br>💡 Problem Solver<br>⭐ 5-Star Machine Learning <br>🗣️ Skilled Public Speaker<br>Feel free to connect via email at "sahilabudhwani@gmail.com." Let's collaborate and create something amazing! 😊🚀
+🐝 Welcome to my profile! I'm Sahil Budhwani, a versatile professional:<br><br>📚 Data Scientist Scholar<br>🎨 Mobile App Developer<br>🌐 Full Stack Web Developer<br>💼 Freelancer<br>💡 Problem Solver<br>⭐ 5-Star Machine Learning <br>🗣️ Skilled Public Speaker<br>Feel free to connect via email at "hello@sahildatasc.com" Let's collaborate and create something amazing! 😊🚀
 
 
 # 💻 Tech Stack:
